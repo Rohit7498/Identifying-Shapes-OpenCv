@@ -16,6 +16,8 @@ This app can recognize shapes whith their tags. In this project  you will learn 
 
 ![Imgur](https://i.imgur.com/FHP8pxY.png)   
 
+<br><br>
+
 ![Imgur](https://i.imgur.com/2av38Wb.png) 
 
 
