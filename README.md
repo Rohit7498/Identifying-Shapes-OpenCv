@@ -10,6 +10,9 @@ This app can recognize shapes whith their tags. In this project  you will learn 
   <li>OpenCv 2.x</li>
 </ul>
 
+<h3>***The code is highly commented to get the understanding of each functions used.***<h3>
+
+
 
 ![Imgur](https://i.imgur.com/FHP8pxY.png)   
 
