@@ -2,8 +2,6 @@
 
 This app can recognize shapes whith their tags. In this project  you will learn and implement logic behind shape recognition.
 
-![Imgur](https://i.imgur.com/FHP8pxY.png)   ![Imgur](https://i.imgur.com/2av38Wb.png) 
-
 <h1>Requirements</h1>
 
 <ul>
@@ -11,6 +9,12 @@ This app can recognize shapes whith their tags. In this project  you will learn 
   <li>Python 3.x</li>
   <li>OpenCv 2.x</li>
 </ul>
+
+
+![Imgur](https://i.imgur.com/FHP8pxY.png)   
+
+![Imgur](https://i.imgur.com/2av38Wb.png) 
+
 
 <h1>Getting Started</h1>
 <ul>
